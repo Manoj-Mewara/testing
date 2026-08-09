@@ -1,0 +1,10 @@
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+
+print("The Addition of", a, "&", b, "is", a + b)
+print("The Subtraction of", a, "&", b, "is", a - b)
+print("The Multiplication of", a, "&", b, "is", a * b)
+print("The Division of", a, "&", b, "is", a / b)
+print("The Floor Division of", a, "&", b, "is", a // b)
+print("The Modulus of", a, "&", b, "is", a % b)
+print("The Exponentiation of", a, "&", b, "is", a ** b)
